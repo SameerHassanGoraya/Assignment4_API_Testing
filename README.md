@@ -106,6 +106,6 @@ For this assignment's load (10 users, 50 total requests against a lightweight pu
 - [x] Postman Collection (`.json`)
 - [x] Postman Environment (`.json`)
 - [x] JMeter Test Plan (`.jmx`)
-- [ ] Screenshots of Postman Collection Runner results *(add after running locally)*
-- [ ] Screenshots of JMeter View Results Tree & Summary Report *(add after running locally)*
+- [x] Screenshots of Postman Collection Runner results *(add after running locally)*
+- [x] Screenshots of JMeter View Results Tree & Summary Report *(add after running locally)*
 - [x] README (this file)
